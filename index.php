@@ -1,7 +1,7 @@
 <HTML>
 <HEAD><TITLE>Hola PHP</TITLE></HEAD>
 <BODY>
-<?php echo '<p>Hello Caracola</p>'; ?>
+<?php echo '<p>Hi Caracola!</p>'; ?>
 </BODY>
 
 </HTML>
